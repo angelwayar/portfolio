@@ -1,0 +1,24 @@
+:root {
+    color-scheme: light dark;
+    background: radial-gradient(ellipse at top, rgba(5, 8, 67, 0.858), rgb(0, 0, 0));
+}
+
+html {
+    font-family: "Onest Variable", system-ui, sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overscroll-behavior: none;
+    color: white;
+    margin: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+}

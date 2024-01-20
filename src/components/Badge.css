@@ -1,0 +1,32 @@
+.span-badge {
+    padding: 1px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    border-radius: 9999px;
+}
+
+.span-badge div {
+    background-color: #020617e6;
+    border-radius: 9999px;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    white-space: nowrap;
+    font-weight: 500;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    width: 100%;
+}
+
+.span-badge div:hover {
+    cursor: pointer;
+    background-color: #ffffff30;
+    transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+    transition-duration: .3s
+}
