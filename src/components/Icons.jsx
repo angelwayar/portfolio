@@ -41,11 +41,11 @@ export function MailIcon() {
             width="24"
             height="24"
             viewBox="0 0 24 24"
-            stroke-width="2"
+            strokeWidth="2"
             stroke="currentColor"
             fill="none"
-            stroke-linecap="round"
-            stroke-linejoin="round"
+            strokeLinecap="round"
+            strokeLinejoin="round"
         >
             <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
             <path
@@ -55,6 +55,51 @@ export function MailIcon() {
             <path d="M3 6l9 6l9 -6"></path>
             <path d="M15 18h6"></path>
             <path d="M18 15l3 3l-3 3"></path>
+        </svg>
+    )
+}
+
+export function BriefcaseIcon() {
+    return (
+        <svg
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            strokeWidth="2"
+            stroke="currentColor"
+            fill="none"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+        >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path
+                d="M3 7m0 2a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v9a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2z"
+            >
+            </path>
+            <path d="M8 7v-2a2 2 0 0 1 2 -2h4a2 2 0 0 1 2 2v2"></path>
+            <path d="M12 12l0 .01"></path>
+            <path d="M3 13a20 20 0 0 0 18 0"></path>
+        </svg>
+    )
+}
+
+export function CodeIcon() {
+    return (
+        <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            strokeWidth="2"
+            stroke="currentColor"
+            fill="none"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+        >
+            <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M7 8l-4 4l4 4"></path>
+            <path d="M17 8l4 4l-4 4"></path>
+            <path d="M14 4l-4 16"></path>
         </svg>
     )
 }

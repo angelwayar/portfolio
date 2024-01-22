@@ -1,0 +1,50 @@
+.time-line-ol {
+    border-color: #fff;
+    border-inline-start-width: 1px;
+    margin-left: 0.75rem;
+    position: relative;
+    list-style: none;
+    padding: 0;
+}
+
+
+.time-line-ol li {
+    margin-bottom: 2.5rem;
+    margin-inline-start: 1rem;
+}
+
+
+.time-line-ol li time {
+    border-radius: 9999px;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+
+    background-color: #ffffff1a;
+}
+
+
+.time-line-ol li h3 {
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    margin-top: 0.5rem;
+    color: rgb(255, 174, 81);
+}
+
+.rounded-full {
+    position: absolute;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-width: 1px;
+    margin-top: 0.375rem;
+    border-radius: 9999px;
+    inset-inline-start: -0.375rem;
+    border-color: rgb(17, 24, 39);
+    background-color: rgb(55 65 81);
+}
+
+@media (min-width: 768px) {
+    .section-xp {
+        width: 740px
+    }
+}

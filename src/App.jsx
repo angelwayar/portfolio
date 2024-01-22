@@ -1,5 +1,6 @@
 import './App.css'
 import { Badge } from "./components/Badge.jsx"
+import { Experience } from "./components/Experience.jsx"
 import { Header } from "./components/Header.jsx"
 import { GitHubIcon, LinkedInIcon, MailIcon } from "./components/Icons.jsx"
 import { SocialPill } from "./components/SocialPill.jsx"
@@ -38,7 +39,8 @@ function App() {
             </SocialPill>
           </nav>
         </section>
-      </main>
+        <Experience />
+      </main>   
     </>
   )
 }

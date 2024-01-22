@@ -38,15 +38,15 @@ section h2 {
 }
 
 .text-yellow-span {
-    color: rgb(255, 170, 52);
+    color: rgb(255, 174, 81);
 }
 
 .text-red-span {
-    color: rgb(191, 0, 0);
+    color: rgb(255, 59, 59);
 }
 
 .text-sky-span {
-    color: rgb(0, 117, 180);
+    color: rgb(112, 205, 255);
 }
 
 section nav {
@@ -55,6 +55,33 @@ section nav {
     display: flex;
     margin-top: 2rem;
 }
+
+.h2-icon-subtitle {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-weight: 600;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    column-gap: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.h2-icon-subtitle svg {
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+.section-xp {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 6rem;
+}
+
+.h2-xp-icon-subtitle {
+    margin-bottom: 1.5rem;
+}
+
 
 @media (min-width: 1024px) {
     section {
