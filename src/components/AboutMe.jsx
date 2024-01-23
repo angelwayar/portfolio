@@ -6,8 +6,8 @@ export function AboutMe() {
         <section
             className='section-xp'
             style={{
-                'padding-top': '9rem',
-                'padding-bottom': '4rem'
+                paddingTop: '8rem',
+                paddingBottom: '3rem'
             }}
             id="About-me"
         >

@@ -6,8 +6,8 @@ main {
 section {
     display: block;
     margin: auto;
-    padding-top: 11rem;
-    padding-bottom: 8rem;
+    padding-top: 8rem;
+    padding-bottom: 6rem;
     width: 100%;
 }
 
@@ -89,7 +89,6 @@ section nav {
     order: 1;
     max-width: 100%;
     display: block;
-    vertical-align: middle;
 }
 
 .img-presentation {
@@ -99,7 +98,6 @@ section nav {
     margin-bottom: 1rem;
     border-radius: 9999px;
     display: block;
-    vertical-align: middle;
 }
 
 @media (min-width: 1024px) {
