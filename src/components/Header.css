@@ -5,11 +5,10 @@ header {
     top: 0;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
     width: 100%;
     z-index: 10;
     position: sticky;
+    backdrop-filter: blur(3px);
 }
 
 nav {

@@ -6,9 +6,8 @@ export function Header() {
             <nav>
                 <a href="#">Inicio</a>
                 <a href="#Experience">Experiencia</a>
-                <a href="#Projects">Proyectos</a>
+                {/* <a href="#Projects">Proyectos</a> */}
                 <a href="#About-me">Sobre mí</a>
-                <a href="#Contact">Contacto</a>
             </nav>
         </header>
     )

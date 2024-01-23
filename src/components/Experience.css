@@ -1,7 +1,6 @@
 .time-line-ol {
     border-color: #fff;
     border-inline-start-width: 1px;
-    margin-left: 0.75rem;
     position: relative;
     list-style: none;
     padding: 0;
@@ -18,7 +17,6 @@
     border-radius: 9999px;
     padding-left: 0.75rem;
     padding-right: 0.75rem;
-
     background-color: #ffffff1a;
 }
 

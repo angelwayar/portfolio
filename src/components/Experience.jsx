@@ -15,7 +15,7 @@ function ExperienceItem({ date, title, description }) {
 
 export function Experience() {
     return (
-        <section className='section-xp' id="Experience">
+        <section className='section-xp' style={{'padding-top': '9rem'}} id="Experience">
             <h2 className="h2-xp-icon-subtitle"> <BriefcaseIcon /> Experiencia laboral</h2>
             <ol className='time-line-ol'>
                 {
