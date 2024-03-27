@@ -17,4 +17,4 @@ export const experiences = [
         title: "AXON S.R.L - Ingeniero de software",
         description: "Participé en el desarrollo de una aplicación de facturación, el fin de esta aplicación es poder elaborar facturas sin necesidad de tener una conexión, obteniendo los datos necesarios previamente. Me encontré trabajando de la mano con equipos de ui/ux design, project manager. Logré registrar al 100% los datos para elaborar la factura de una persona, los cuales se almacenan en base de datos SQLite local del teléfono móvil.",
     },
-]
+];

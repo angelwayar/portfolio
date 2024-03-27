@@ -1,0 +1,56 @@
+.image-container {
+    margin: 0;
+    color-scheme: dark;
+    height: 480px;
+    width: 360px;
+    padding: 1.25rem;
+    position: relative;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    background-color: rgb(21 16 48);
+}
+
+.image {
+    height: 230px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    color-scheme: dark;
+    border-radius: 1rem;
+    box-sizing: border-box;
+
+}
+
+.h2-card {
+    margin-top: 4px;
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+
+.p-card {
+    margin: 0;
+    padding: 0;
+}
+
+.stack-card {
+    gap: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid-container {
+    gap: 12px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-item {
+    padding: 12px;
+}
+
+a {
+    font-style: none;
+    text-decoration: none; 
+    color: white;
+}

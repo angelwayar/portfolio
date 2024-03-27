@@ -44,6 +44,7 @@ function App() {
           </nav>
         </section>
         <Experience />
+        <Projects />
         <AboutMe />
       </main>
       <Footer />
