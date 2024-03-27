@@ -54,3 +54,19 @@ a {
     text-decoration: none; 
     color: white;
 }
+
+@media (max-width: 768px) {
+    .grid-container {
+        gap: 12px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 568px) {
+    .grid-container {
+        gap: 12px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
