@@ -42,7 +42,7 @@
 .grid-container {
     gap: 12px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
 }
 
 .grid-item {
@@ -53,14 +53,6 @@ a {
     font-style: none;
     text-decoration: none; 
     color: white;
-}
-
-@media (max-width: 768px) {
-    .grid-container {
-        gap: 12px;
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-    }
 }
 
 @media (max-width: 568px) {
