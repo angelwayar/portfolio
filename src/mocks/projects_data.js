@@ -75,7 +75,7 @@ export const projects = [
         id: 4,
         title: "Inventario",
         img: "inventory.png",
-        description: "Un proyecto personal de inventario que actualmente se encuentra en uso por una tienda de accesorios para vehículos. El backend y la base de datos de Mongo están dockerizados, utilizando Flutter para escritorio.",
+        description: "Un proyecto personal de inventario que actualmente se encuentra en uso por una tienda de accesorios para vehículos. El backend y la base de datos de Mongo están dockerizados.",
         stack: [
             {
                 id: 1,
