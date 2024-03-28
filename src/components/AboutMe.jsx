@@ -15,13 +15,13 @@ export function AboutMe() {
             <section className="aboutme-section">
                 <div>
                     <p>
-                        Me llamo Ángel, soy ingeniero de sistemas, desde niño me llamo la atención,
-                        sobre como funcionaban los programas y circuitos, hasta que se me dio la oportunidad de aprender en la universidad.
-                        <strong> Lidere equipos de desarrollo en Banco Fassil</strong>.
+                        Me llamo Ángel, soy ingeniero de sistemas. Desde niño me llamó la atención
+                        cómo funcionaban los programas y los circuitos, hasta que se me dio la oportunidad de aprender en la universidad.
+                        <strong>Lideré equipos de desarrollo en Banco Fassil</strong>.
                     </p>
                     <p>
-                        Algunos de mis exitos, se dieron dentro del Banco, como la <strong>implementación de pantallas dinámicas</strong>,
-                        para los distintos flujos de servicios de la app móvil, desarrollada en Flutter.
+                        Algunos de mis éxitos se dieron dentro del banco, como la <strong>implementación de pantallas dinámicas</strong>
+                        para los distintos flujos de servicios de la aplicación móvil, desarrollada en Flutter.
                     </p>
                     <p>
                         Soy un entusiasta de <strong>TensorFlow para el desarrollo de Machine Learning</strong>, apasionado por el desarrollo de software, creativo, analítico y colaborativo.

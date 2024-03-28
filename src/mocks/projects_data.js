@@ -3,7 +3,7 @@ export const projects = [
         id: 1,
         title: "JICHI",
         img: "./app_jichi.png",
-        description: "El primer proyecto en el que participe en Banco Fassil. Un ecommerce para emprendedores, que permite llevar acabo registro de ventas, inventario, conexión con el Banco, etc.",
+        description: "El primer proyecto en el que participé en Banco Fassil fue un ecommerce para emprendedores, que permite llevar a cabo el registro de ventas, control de inventario, conexión con el banco, etc.",
         url: "https://play.google.com/store/apps/details?id=com.jichi&hl=es&gl=US",
         stack: [
             {
@@ -27,7 +27,7 @@ export const projects = [
         id: 2,
         title: "Banca Móvil",
         img: "./app_banco_fassil.png",
-        description: "Mi segundo proyecto en Banco Fassil. mi rol, más que desarrollador, era la de guiar a los devs e implementar una arquitectura multi-repository al aplicación.",
+        description: "Mi segundo proyecto en Banco Fassil. Mi rol, más que desarrollador, era el de guiar a los desarrolladores e implementar una arquitectura multi-repository en la aplicación.",
         url: "https://play.google.com/store/apps/details?id=com.tsmbo.fassil&hl=es&gl=US",
         stack: [
             {
@@ -51,7 +51,7 @@ export const projects = [
         id: 3,
         title: "Portal CAINCO",
         img: "./cainco.png",
-        description: "Portal CAINCO, es un sitio web por el cual los socios de CAINCO pueden consultar, sus datos y documentos faltantes, entre otras cosas.",
+        description: "Portal CAINCO es un sitio web a través del cual los socios de CAINCO pueden consultar sus datos y documentos faltantes, entre otras cosas.",
         url: "https://www.cainco.org.bo/",
         stack: [
             {
@@ -75,7 +75,7 @@ export const projects = [
         id: 4,
         title: "Inventario",
         img: "inventory.png",
-        description: "Un proyecto personal de inventario que actualmente se encuentra en uso, por una tienda de accesorios para vehículos, se encuentra dockerizado el Back-end y la DB de mongo. utilzando Flutter desktop.",
+        description: "Un proyecto personal de inventario que actualmente se encuentra en uso por una tienda de accesorios para vehículos. El backend y la base de datos de Mongo están dockerizados, utilizando Flutter para escritorio.",
         stack: [
             {
                 id: 1,

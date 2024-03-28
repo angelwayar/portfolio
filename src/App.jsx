@@ -33,7 +33,7 @@ function App() {
           </h2>
           <nav>
             <SocialPill href={"https://www.linkedin.com/in/angel-wayar-e/"} >
-              <LinkedInIcon /> LinkIn
+              <LinkedInIcon /> LinkedIn
             </SocialPill>
             <SocialPill href={"https://github.com/angelwayar/"} >
               <GitHubIcon /> GitHub
